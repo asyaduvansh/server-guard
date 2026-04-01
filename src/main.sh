@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 1.Location where log history store
-LOG_FILE="/home/sandeep-yaduvanshi/Desktop/System-health-monitoring/logs/history.log"
+LOG_FILE="/home/sandeep-yaduvanshi/Desktop/cloud-school/phase1-server-guard/logs/history.log"
 
 # 2.Function for printing message with exact time and date
 log_message() {
